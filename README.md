@@ -1,0 +1,1 @@
+Ive been trying to get this bot to work on my discord server and i keep running into problems with timeouts and stuff tried so much to fix it and cant so if anyone else wants to try and fix the code go ahead.
